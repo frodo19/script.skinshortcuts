@@ -268,6 +268,10 @@ msgctxt "#32062"
 msgid "Play"
 msgstr "Lejátszás"
 
+msgctxt "#32063"
+msgid "Getting directory listing..."
+msgstr "Könyvtár listázása..."
+
 msgctxt "#32064"
 msgid "No Shortcuts"
 msgstr "Nincsenek parancsikonok"
@@ -276,13 +280,90 @@ msgctxt "#32065"
 msgid "There are no shortcuts available for the category that you choose."
 msgstr "Nincsenek elérhető parancsikonok a kiválasztott kategóriához"
 
+msgctxt "#32066"
+msgid "Last TV channel"
+msgstr "Utolsó TV csatorna"
+
+msgctxt "#32067"
+msgid "Last radio channel"
+msgstr "Utolsó rádió csatorna"
+
+msgctxt "#32068"
+msgid "Last channel"
+msgstr "Utolsó csatorna"
+
+msgctxt "#32069"
+msgid "Video Source"
+msgstr "Videó forrás"
+
 msgctxt "#32070"
 msgid "UPnP"
 msgstr "UPnP"
 
+msgctxt "#32071"
+msgid "Customize Main Menu"
+msgstr "Főmenü testreszabása"
+
+msgctxt "#32072"
+msgid "Customize Submenu"
+msgstr "Almenü testreszabása"
+
+msgctxt "#32073"
+msgid "Music Source"
+msgstr "Zenei forrás"
+
+msgctxt "#32074"
+msgid "Library Sources"
+msgstr "Mádiatár forrás"
+
 msgctxt "#32075"
 msgid "Sources"
 msgstr "Források"
+
+msgctxt "#32076"
+msgid "TV Channel"
+msgstr "TV csatorna"
+
+msgctxt "#32077"
+msgid "Radio Channel"
+msgstr "Rádió csatorna"
+
+msgctxt "#32078"
+msgid "Display..."
+msgstr "Kijelző..."
+
+msgctxt "#32079"
+msgid "Files view"
+msgstr "Fájlnézet"
+
+#. ::MENUNAME:: is used internally and should NOT be translated :)
+msgctxt "#32080"
+msgid "Szerkesztés ::MENUNAME:: almenü"
+msgstr ""
+
+msgctxt "#32081"
+msgid "Movies not in this source"
+msgstr "Filmek nem ebben a forrásban"
+
+msgctxt "#32082"
+msgid "TV Shows not in this source"
+msgstr "Sorozatok nem ebben a forrásban"
+
+msgctxt "#32083"
+msgid "Music Videos not in this source"
+msgstr "Zenei videók nem ebben a forrásban"
+
+msgctxt "#32084"
+msgid "Songs not in this source"
+msgstr "Dalok nem ebben a forrásban"
+
+msgctxt "#32085"
+msgid "Albums not in this source"
+msgstr "Albumok nem ebben a forrásban"
+
+msgctxt "#32086"
+msgid "Mixed content not in this source"
+msgstr "Vegyes tartalom nem ebben a forrásban"
 
 msgctxt "#32087"
 msgid "Radio"
@@ -292,6 +373,141 @@ msgctxt "#32088"
 msgid "Channels"
 msgstr "Csatornák"
 
+msgctxt "#32089"
+msgid "Picture Source"
+msgstr "Képforrás"
+
+msgctxt "#32090"
+msgid "The item has been added to the menu"
+msgstr "Elem hozzáadva a menühöz"
+
+msgctxt "#32091"
+msgid "Unable to add item to the menu. Please check log for errors."
+msgstr "Nem lehet hozzáadni a menühöz. Hiba keresése a log fájlban"
+
+msgctxt "#32092"
+msgid "Unable to build menu."
+msgstr "Nem lehet felépíteni a menüt"
+
+msgctxt "#32093"
+msgid "Upload debug log?"
+msgstr "Debug log feltöltése"
+
+msgctxt "#32094"
+msgid "Install Kodi Log Uploader add-on to easily provide a debug log."
+msgstr "Telepítsd a Kodi log uploader kiegészítőt a feltöltéshez"
+
+msgctxt "#32095"
+msgid "Choose default action for menu item"
+msgstr "Válassz alap viselkedést a menü elemekhez"
+
 msgctxt "#32096"
 msgid "Browse..."
 msgstr "Tallózás..."
+
+msgctxt "#32097"
+msgid "Unable to save menu"
+msgstr "Nem menthető a menü"
+
+msgctxt "#32098"
+msgid "Writing menu..."
+msgstr "Menü felírása"
+
+msgctxt "#32099"
+msgid "Widget"
+msgstr "Widget"
+
+msgctxt "#32100"
+msgid "Use as widget"
+msgstr "Widgetként használ"
+
+msgctxt "#32101"
+msgid "Choose property"
+msgstr "Tulajdonságok kiválasztása"
+
+msgctxt "#32102"
+msgid "Restore or reset?"
+msgstr "Visszaállítás vagy reset?"
+
+msgctxt "#32103"
+msgid "Restore an original menu item"
+msgstr "Eredeti menüelemek visszaállítása"
+
+msgctxt "#32104"
+msgid "Reset to skin defaults"
+msgstr "Felszín visszaállítása alapra"
+
+msgctxt "#32105"
+msgid "There are no menu items to restore for this menu"
+msgstr "Itt nincs mit visszaállítani"
+
+msgctxt "#32106"
+msgid "Install widget provider"
+msgstr "Widget kiszolgáló telepítése"
+
+msgctxt "#32107"
+msgid "Enable default widgets"
+msgstr "Alap widgetek engedélyezése"
+
+msgctxt "#32108"
+msgid "Party mode (music videos)"
+msgstr "Party mód (zenei videók)"
+
+msgctxt "#32109"
+msgid "No menus from compatible skins found to import"
+msgstr "Nincs kompatibilis felszín a menü importálásához"
+
+msgctxt "#32110"
+msgid "Import menu from skin"
+msgstr "Menü importálás felszínből"
+
+msgctxt "#32111"
+msgid "Shared menu"
+msgstr "Megosztott menü"
+
+msgctxt "#32112"
+msgid "New item on the main menu"
+msgstr "Új elem a főmenüben"
+
+msgctxt "#32113"
+msgid "New item on the main menu (autofill submenu items)"
+msgstr "Új elem a főmenüben (autokitöltés az almenü elemeken)"
+
+msgctxt "#32114"
+msgid "Where should menu item be created"
+msgstr "Hol kell létrehozni a menüpontot"
+
+#: /resources/lib/nodefunctions.py
+msgctxt "#32115"
+msgid "Unable to get directory listings[CR][CR]See log for details"
+msgstr "Nem sikerült megszerezni a könyvtárlistákat[CR][CR]A részletekért lásd a naplót"
+
+#: /default.py
+msgctxt "#32116"
+msgid "The skin you are using does not support adding items directly to the main menu"
+msgstr "A használt felszín nem támogatja az elemek közvetlen hozzáadását a főmenühöz"
+
+msgctxt "#32117"
+msgid "Disable shortcut"
+msgstr "Parancsikon letiltása"
+
+msgctxt "#32118"
+msgid "Smart shortcuts"
+msgstr "Smart parancsikonok"
+
+msgctxt "#32119"
+msgid "Default widgets"
+msgstr "Alap widgetek"
+
+#: /resources/settings.xml
+msgctxt "#32120"
+msgid "Never hide PVR shortcuts"
+msgstr "Sose rejtse el a PVR parancsikont"
+
+msgctxt "#32121"
+msgid "Share menu between compatible skins"
+msgstr "Menü megosztása a kompatibilis felszínekkel"
+
+msgctxt "#32122"
+msgid "Default widgets"
+msgstr "Alap widgetek"
