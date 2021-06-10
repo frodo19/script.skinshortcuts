@@ -280,6 +280,22 @@ msgctxt "#32070"
 msgid "UPnP"
 msgstr "UPnP"
 
+msgctxt "#32071"
+msgid "Customize Main Menu"
+msgstr "Főmenü testreszabása"
+
+msgctxt "#32072"
+msgid "Customize Submenu"
+msgstr "Almenü testreszabása"
+
+msgctxt "#32073"
+msgid "Music Source"
+msgstr "Zenei forrás"
+
+msgctxt "#32074"
+msgid "Library Sources"
+msgstr "Médiatár forrás"
+
 msgctxt "#32075"
 msgid "Sources"
 msgstr "Források"
@@ -295,3 +311,115 @@ msgstr "Csatornák"
 msgctxt "#32096"
 msgid "Browse..."
 msgstr "Tallózás..."
+
+
+msgctxt "#32097"
+msgid "Unable to save menu"
+msgstr "Nem menthető a menü"
+
+msgctxt "#32098"
+msgid "Writing menu..."
+msgstr "Menü mentése"
+
+msgctxt "#32099"
+msgid "Widget"
+msgstr "Widget"
+
+msgctxt "#32100"
+msgid "Use as widget"
+msgstr "Widgetként használ"
+
+msgctxt "#32101"
+msgid "Choose property"
+msgstr "Tulajdonságok"
+
+msgctxt "#32102"
+msgid "Restore or reset?"
+msgstr "Visszaállítás vagy reset"
+
+msgctxt "#32103"
+msgid "Restore an original menu item"
+msgstr "Eredeti menü elem visszaállítása"
+
+msgctxt "#32104"
+msgid "Reset to skin defaults"
+msgstr "Felszín alapállapotba"
+
+msgctxt "#32105"
+msgid "There are no menu items to restore for this menu"
+msgstr "Nincs elem amit visszaállíthatnánk ebben a menüben"
+
+msgctxt "#32106"
+msgid "Install widget provider"
+msgstr "Widget közzétevő telepítése"
+
+msgctxt "#32107"
+msgid "Enable default widgets"
+msgstr "Alap widgetek engedélyezése"
+
+msgctxt "#32108"
+msgid "Party mode (music videos)"
+msgstr "Party mód (zenei videók)"
+
+msgctxt "#32109"
+msgid "No menus from compatible skins found to import"
+msgstr "Nincs kompatibilis felszín a menü importjához"
+
+msgctxt "#32110"
+msgid "Import menu from skin"
+msgstr "Menü import felszínből"
+
+msgctxt "#32111"
+msgid "Shared menu"
+msgstr "Megosztott menü"
+
+msgctxt "#32112"
+msgid "New item on the main menu"
+msgstr "Új főmenü elem"
+
+msgctxt "#32113"
+msgid "New item on the main menu (autofill submenu items)"
+msgstr "Új főmenü elem (auto almenü elem kitöltés)"
+
+msgctxt "#32114"
+msgid "Where should menu item be created"
+msgstr "Hova hozza létre a menüelemet"
+
+#: /resources/lib/nodefunctions.py
+msgctxt "#32115"
+msgid "Unable to get directory listings[CR][CR]See log for details"
+msgstr "Nem listázható a könyvtár[CR][CR]Nézd meg a logot a részletekért"
+
+#: /default.py
+msgctxt "#32116"
+msgid "The skin you are using does not support adding items directly to the main menu"
+msgstr "A felszín nem támogatja a főmenü elem hozzáadását"
+
+msgctxt "#32117"
+msgid "Disable shortcut"
+msgstr "Parancsikon tiltása"
+
+msgctxt "#32118"
+msgid "Smart shortcuts"
+msgstr "Smart parancsikonok"
+
+msgctxt "#32119"
+msgid "Default widgets"
+msgstr "Alap widgetek"
+
+#: /resources/settings.xml
+msgctxt "#32120"
+msgid "Never hide PVR shortcuts"
+msgstr "Soha sem rejti el a PVR parancsikont"
+
+msgctxt "#32121"
+msgid "Share menu between compatible skins"
+msgstr "Menü megosztása a kompatibilis felszínek között"
+
+msgctxt "#32122"
+msgid "Enable debug logging"
+msgstr "Debug log engedélyezése"
+
+msgctxt "#32123"
+msgid "Games"
+msgstr "Játékok"
